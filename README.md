@@ -14,7 +14,7 @@ An interactive dashboard built using **Power BI** to analyze and visualize pizza
 - DAX (for calculated measures)
 
 ## 📷 Screenshots
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📁 Project Files
 - `PizzaSalesDashboard.pbix` - Main Power BI file
