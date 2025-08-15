@@ -30,4 +30,4 @@ An interactive dashboard built using **Power BI** to analyze and visualize pizza
 ## 📬 Contact
 Created by Gajanan Shinde(https://github.com/Gajanan2004)  
 Feel free to reach out via  www.linkedin.com/in/gajanan-shinde-354136314
-](www.linkedin.com/in/gajanan-shinde-354136314)
+
